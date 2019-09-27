@@ -7,3 +7,6 @@
 * [How to make your resume shine](https://news.microsoft.com/life/make-resume-shine/)
 
 ## Templates
+
+* [Google Doc's CV templates (be sure to set your google account language to english)](https://docs.google.com/templates)
+* [JSON Resume](https://jsonresume.org)
