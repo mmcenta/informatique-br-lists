@@ -9,4 +9,5 @@
 ## Templates
 
 * [Google Doc's CV templates (be sure to set your google account language to english)](https://docs.google.com/templates)
+* [LaTeX Templates (in special the Medium Length Professional)](http://www.latextemplates.com/template/medium-length-professional-cv)
 * [JSON Resume](https://jsonresume.org)
